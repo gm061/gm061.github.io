@@ -1,0 +1,605 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+#hh1{
+    font-weight: bold;
+}
+footer{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin:0 60px;
+}
+.Firstnameblock{
+    display: table;
+}
+header{
+    margin-top: 0;
+}
+button, 
+button:active, 
+button:focus {
+    outline: none;
+}
+
+img{
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+.unselectable {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input{
+    outline: none;
+    transition: 0.5s;
+}
+#ob0{
+    transform: translate(57%, -430%);
+    display: table-cell;
+    transition: 0.5s;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #ee4e1d;
+}
+.servenameblocka{
+    display:table; 
+}
+#ob1{
+    display: table-cell;
+transition: 0.5s;
+transform: translate(2%,-450%);
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #ee4e1d;
+}
+#planetimg{
+    transform: translate(190%, 170%);
+}
+.imgfortrash{
+    position: absolute;
+    z-index: -1;
+}
+#ob2{
+    display: table-cell;
+    transition: 0.5s;
+    transform: translate(15%,-450%);
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    /* Основные / 02 */
+    
+    color: #ee4e1d;
+}
+.footertxt{
+font-family: 'Rubik', sans-serif;
+
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: right;
+
+/* Основные / 01 */
+
+color: #191919;
+}
+#ob3{
+    display: table-cell;
+    transition: 0.5s;
+    transform: translate(27%, -450%);
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    /* Основные / 02 */
+    
+    color: #ee4e1d;
+}
+#obpole{
+    position: absolute;
+}
+input:invalid {
+    border-color: red;
+}
+input:valid + label{ 
+    opacity: 0;
+}
+
+#mylogokidney{
+    z-index: 2;
+}
+#mylogo2kidney{
+    margin-top: 200px;
+}
+#nurse1infobock{
+    line-height: 30px;
+}
+#nurse1{
+    transition: 0.5s;
+}
+#nurse1:hover{
+    opacity: 0.6;
+}
+#nurse1name{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#nurse1job{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Основные / 01 */
+
+color: #191919;
+}
+#nurse1time{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #8B929E;
+}
+#nurse1days{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #8B929E;
+}
+#uznatpodrobnee{
+    font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Бренд / Основной */
+
+color: #E50046;
+}
+#opisanie1block{
+    margin-top: 40px;
+}
+#opisanie1{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+
+/* Основные / 01 */
+
+color: #191919;
+}
+.srchbutton{
+    background-color: none;
+    height: 24px;
+    border: none;
+    outline: none;
+}
+#specialisti{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+/* Основные / 01 */
+
+color: #191919;
+}
+.logokid{
+height: 36.01px;
+}
+.logokidneybut{
+display: flex;
+height: 30px;
+}
+.logoney{
+margin-top: 12px;
+height: 33.85px;
+}
+.logokidney{
+display: flex;
+margin-top: 10px;
+}
+.margclass{
+    width: auto;
+}
+.but{
+transition: 0.2s;
+border: none;
+background-color: #FFFFFF;
+}
+.but:hover{
+    color: red;
+}
+.font{
+text-decoration: none;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color:black;
+}
+.navbarmain{
+display: flex;
+height: 50px;
+margin-bottom: 70px;
+}
+.adressclitext{
+transition: 0.2s;
+color: #E50046;
+text-decoration: none;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+
+/* Бренд / Основной */
+}
+.pathrow{
+    margin-bottom: 30px;
+    display: flex;
+}
+.txt1{
+    color: #E50046;
+}
+.txt2{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+transform: translate(0%, 10%);
+font-weight: normal;
+font-size: 16px;
+line-height: 17px;
+color: #8B929E;
+}
+.price{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+padding-top: 2px;
+padding-right: 15px;
+}
+.pricetxt{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-size: 18px;
+line-height: 21px; 
+color: #000000;
+padding-top: 2px;
+padding-left: 15px;
+}
+.alert{
+padding: 0;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* identical to box height */
+
+
+/* Бренд / Основной */
+
+color: #E50046;
+}
+.allwarn{
+    display: table;
+padding-top:7px;
+padding-left: 30px;
+}
+.alerttxt{
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.selectnurse{
+    transition: 0.5s;
+    border-radius: 32px;
+    margin-left: 40px;
+    width: 352px;
+    height: 52px;
+}
+label{
+    position:absolute;
+}
+.Firstname{
+    padding: 20px;
+    font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #000000;
+    border-radius: 32px;
+    height: 51px;
+    width: 352px;   
+}
+.Secondname{
+    
+    padding: 20px;
+    margin-left: 40px;
+    font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #000000;
+    border-radius: 32px;
+    height: 51px;
+    width: 352px; 
+}
+.somethingclass{
+    margin-top: 20px;
+}
+.labelts{
+    position: absolute;
+    transform: translate(180%, -40%);
+}
+.labelss{
+    position: absolute;
+    transform: translate(220%, -40%);
+}
+.labelfs{
+    position: absolute;
+    transform: translate(50%,-40%);
+}
+.Thirdname{
+    padding: 20px;
+    margin-left: 80px;
+    font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #000000;
+    border-radius: 32px;
+    height: 51px;
+    width: 352px; 
+}
+.zamok{
+    margin: -50px;
+}
+.sendo{
+    border-radius: 32px;
+    margin-top: 25px;
+    width:352px;
+    height: 52px;
+    margin-left: 80px;
+}
+.usernum{
+    display: table-cell;
+    padding: 20px;
+    margin-left: 80px;
+    font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #000000;
+    border-radius: 32px;
+    height: 51px;
+    width: 352px;
+}
+.servenameinp{ 
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Основные / 02 */
+
+color: #8B929E;
+    border-radius: 32px;
+    height: 51px;
+    width: 352px;
+}
+
+.row2warning{
+    width: 555px;
+    background: rgba(229, 0, 70, 0.04);
+    border-radius: 24px;
+    border-radius: 24px;
+    height: 40px;
+    display: table;
+}
+.row2{
+margin-bottom: 20px;
+}
+.picetxt{
+position: absolute;
+top: 9px;
+left: 25px;
+font-family: 'Rubik', sans-serif;
+font-size: 20px;
+
+color: #000000;
+}
+
+.servename{
+font-weight: bold;
+font-family: 'Rubik', sans-serif;
+font-size: 32px;
+line-height: 38px;
+color: #191919;
+}
+
+.slash{
+    color:  #ffffff;
+    font-size: 15px;
+}
+
+.adressclitext:hover{
+    color: #ff5d8d ;
+
+}
+#nashinst:hover{
+    color: #f54479;
+    cursor: pointer
+}
+#serch{
+    width: 24px;
+    height: 24px;
+}
+#place{
+    width: 20px;
+    height: 27px;
+}
+.navigation{
+    margin-left: 10px;
+    width: 90%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.blocknumber{
+    margin-top: -15px;
+    transition: 0.5s;
+    position: relative;
+    background-color: #E50046;
+    width: 191px;
+    height: 54px;
+    border-radius: 32px;
+}
+.blocknumber:hover{
+    background-color: #a70737;
+}
+.nocolor{
+    background: transparent;
+}
+.blocknumber:hover .numbtext{
+    color: rgb(255, 57, 57);
+}
+.blocknumber:hover .rinico{
+    filter: invert(48%) sepia(23%) saturate(3207%) hue-rotate(-38deg) ;
+}
+.rinico{
+transition: 0.5s;
+position: absolute;
+top: 25%;
+left: 20%;
+}
+.numbtext{
+position: absolute;
+top: 25%;
+left: 30%;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+transition: 0.5s;
+color: #FFFFFF;
+}
+.specialist1block{
+    width: 320px;
+}
+.specialist2block{
+    width: 350px;
+}
